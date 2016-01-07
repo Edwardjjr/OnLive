@@ -12,11 +12,6 @@ app.use('/api', require('./api'));
 
 
 
-app.get('/', function(req, res) {
-	res.render('Form');
-})
-
-
 app.get('/api/vi/querys', function(req, res) {
 	
 })
