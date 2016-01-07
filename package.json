@@ -1,0 +1,17 @@
+{
+  "name": "pakage",
+  "version": "1.0.0",
+  "description": "En este documento se tienen las dependencias a las diferentes librerias.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "mongoose": "^4.3.4"
+  }
+}
